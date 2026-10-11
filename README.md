@@ -204,7 +204,9 @@ The filters allow users to explore different categories, cities, brands, and del
 
 ## 10. Dashboard Screenshot
 
-Blinkit Product Dashboard ![alt text](<Updated Blinkit_Product_Dashboard.png>)
+## Blinkit Product Dashboard 
+
+![alt text](<Updated Blinkit_Product_Dashboard.png>)
 
 The dashboard presents key performance indicators and charts to help users explore product sales, pricing, demand, and delivery performance.
 
